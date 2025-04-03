@@ -1,2 +1,0 @@
-# DEMO
-THIS IS A DEMO CLASS FOR GIT & github.
